@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(200, 200, 200);
+  font-family: 'Roboto', sans-serif;
+font-size: 20px;
+}
+.App {
+  width: 90%;
+  margin: 0 auto;
+  border: 1px solid blue;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+

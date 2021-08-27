@@ -1,0 +1,23 @@
+.gallaryPost {
+  display: flex;
+  justify-content: space-between;
+}
+.sideimageWrapper div {
+  width: 100%;
+}
+.sideimageWrapper div img {
+  max-width: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+
+.Homecontainer{
+  display: flex;
+  justify-content: space-between;
+}
+
+.Homecontainer{
+  display: flex;
+  justify-content: space-between;
+}
